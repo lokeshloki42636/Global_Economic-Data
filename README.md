@@ -31,13 +31,16 @@ Getting Started With Enterprise Data Science Badge
 ![getting-started-with-enterprise-data-science 2](https://github.com/Shashmithayoganarajah/GLOBAL_ECONOMIC_DATA/assets/139777522/1a54f1f2-aaef-4fa9-b30f-f5746ea098b3)
 
 
-
+certificate
+[Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-j8hme.pdf](https://github.com/lokeshloki42636/Global_Economic-Data/files/12503764/Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-j8hme.pdf)
 
 
 
 
 Journey to Cloud Envisioning Your Solution Badge
 ![journey-to-cloud-envisioning-your-solution 2](https://github.com/Shashmithayoganarajah/GLOBAL_ECONOMIC_DATA/assets/139777522/684da29f-d252-4e77-aede-2bd07e3ec985)
+
+
 
 Certificate
 [Journey_to_Cloud__Envisioning_Your_Solution_Badge20230902-28-gllal0.pdf](https://github.com/lokeshloki42636/Global_Economic-Data/files/12503763/Journey_to_Cloud__Envisioning_Your_Solution_Badge20230902-28-gllal0.pdf)
